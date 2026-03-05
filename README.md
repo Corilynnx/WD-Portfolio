@@ -75,7 +75,7 @@ Full-stack projects
 
 ## Clone the repository:
 
-git clone https://github.com/yourusername/WD-Portfolio.git
+git clone https://github.com/Corilynnx/WD-Portfolio
 
 Navigate to the project folder:
 
@@ -97,6 +97,6 @@ Expand project case studies
 
 GitHub: https://github.com/Corilynnx
 
-LinkedIn: https://linkedin.com/in/corilyn
+LinkedIn: www.linkedin.com/in/corilyn
 
 ⭐ If you found this portfolio helpful or interesting, feel free to star the repository.
