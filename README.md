@@ -10,7 +10,7 @@ This repository contains the source code for my personal developer portfolio. Th
 🔗 Live Portfolio
 
 View the deployed site here:
-Live Demo(https://cori-frontend-portfolio.netlify.app/)
+[Live Demo](https://cori-frontend-portfolio.netlify.app/)
 
 ## 👩🏾‍💻 About Me
 
