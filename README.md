@@ -10,7 +10,7 @@ This repository contains the source code for my personal developer portfolio. Th
 🔗 Live Portfolio
 
 View the deployed site here:
-Visit Portfolio https://cori-frontend-portfolio.netlify.app/
+https://cori-frontend-portfolio.netlify.app/
 
 ## 👩🏾‍💻 About Me
 
@@ -75,7 +75,7 @@ Full-stack projects
 
 ## Clone the repository:
 
-git clone https://github.com/yourusername/your-portfolio-repo.git
+git clone https://github.com/yourusername/WD-Portfolio.git
 
 Navigate to the project folder:
 
@@ -95,8 +95,8 @@ Expand project case studies
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Corilynnx
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/corilyn
 
 ⭐ If you found this portfolio helpful or interesting, feel free to star the repository.
