@@ -187,11 +187,14 @@ a:hover {
 
 #hamburger-nav {
   display: none;
+  
 }
 
 .hamburger-menu {
   position: relative;
   display: inline-block;
+  margin-top: 2rem;
+  
 }
 
 .hamburger-icon {
@@ -229,6 +232,7 @@ a:hover {
   color: var(--forest);
   text-decoration: none;
   transition: all 0.3s ease-in-out;
+
 }
 
 .menu-links li {
@@ -306,6 +310,7 @@ section {
 .section__text__p1 {
   text-align: center;
   color: var(--forest);
+  margin-bottom: 0.5rem;
 }
 
 .section__text__p2 {
@@ -318,6 +323,7 @@ section {
   text-align: center;
   font-family: 'Fraunces', serif;
   color: var(--forest);
+  margin-bottom: 1rem;
 }
 
 .profile-img {
@@ -402,6 +408,7 @@ a.btn:hover {
 
 #about {
   position: relative;
+  margin: 0 5rem;
   
 }
 
@@ -437,20 +444,22 @@ a.btn:hover {
 .details-container {
   padding: 1.5rem;
   flex: 1;
+  width: 100%;
   backdrop-filter: blur(100px);
   border-radius: 2rem;
   border: var(--forest) 0.1rem solid;
   border-color: var(--forest);
   text-align: center;
+  box-sizing: border-box;
 }
 
 .text-container {
-  width: 50rem;
+  width: 100%;
 }
 
 .section-container {
   gap: 2.5rem;
-  height: 80vh;
+  height: auto;
   justify-content: center;
 }
 
@@ -606,11 +615,15 @@ article .icon {
 
 #contact {
   position: relative;
-  margin: 5rem 10rem;
+  margin: 5rem auto;
   display: flex;
   justify-content: center;
+  align-items: center;
   flex-direction: column;
-  height: 70vh;
+  height: auto;
+  max-width: 600px;
+  width: 100%;
+  box-sizing: border-box;
 }
 
 .contact-info-upper-container {
@@ -629,7 +642,7 @@ article .icon {
   align-items: center;
   justify-content: center;
   gap: 0.5rem;
-  margin: 1rem;
+  box-sizing: border-box;
 }
 
 .contact-info-container p {
@@ -667,5 +680,5 @@ footer p {
   display: flex;
   justify-content: center;
   margin-top: 1rem;
- 
+  box-sizing: border-box;
 }
